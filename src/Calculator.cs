@@ -7,7 +7,8 @@ namespace src
 {
     public class Calculator
     {
-        public int MyProperty { get; set; }
+        public int Id { get; set; }
+        public int Nombre { get; set; }
         public Calculator()
         {
             
